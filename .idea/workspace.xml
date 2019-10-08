@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="432cad3e-0fe9-4b25-b8a8-778dfb8f17cb" name="Default Changelist" comment="" />
+    <list default="true" id="432cad3e-0fe9-4b25-b8a8-778dfb8f17cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/infernalWhale/model/Pokkemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/infernalWhale/model/PokkemonType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/infernalWhale/model/Trainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/infernalWhale/persistence/PokemonTypeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/infernalWhale/persistence/PokkeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/infernalWhale/persistence/imp/PokkemonRepositoryImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/infernalWhale/service/DustCalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/infernalWhale/service/IvCalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/infernalWhale/service/PokkemonCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/infernalWhale/service/imp/IVCalculatorServiceImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/infernalWhale/service/imp/PokkemonCalculatorImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/intecbrussel/infernalWhale/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/infernalWhale/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/intecbrussel/infernalWhale/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/infernalWhale/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +27,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -23,6 +42,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Rub9I32a9zEaw6RNhVCK8uEkMP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -51,11 +71,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570519774789</updated>
-      <workItem from="1570519777736" duration="544000" />
+      <workItem from="1570519777736" duration="12605000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
